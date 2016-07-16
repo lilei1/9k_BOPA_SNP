@@ -4,10 +4,10 @@ module load bowtie2/2.2.4
 bowtie2 -f /home/morrellp/llei/Shared/shared/Datasets/Genotyping/Contextual_Sequences/BOPA_SNPs/BOPA_SNPs.fasta -x /home/morrellp/llei/Shared/shared/References/Reference_Sequences/Barley/Morex/barley_RefSeq_v1.0/150831_barley_pseudomolecules -S BOPA_contextual.sam
 ```
 
-log file record:
+#log file record:
 3072 reads; of these:
-  3072 (100.00%) were unpaired; of these:
-    469 (15.27%) aligned 0 times
-    2196 (71.48%) aligned exactly 1 time
-    407 (13.25%) aligned >1 times
+3072 (100.00%) were unpaired; of these:
+469 (15.27%) aligned 0 times
+2196 (71.48%) aligned exactly 1 time
+407 (13.25%) aligned >1 times
 84.73% overall alignment rate
