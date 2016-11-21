@@ -12,7 +12,7 @@ B. ./snp_utils.py  CONFIG -d 160404_barley_pseudomolecules_masked.fasta -k -i 9
 C. ./snp_utils.py BLAST -l BOPA_lookup.txt -c blast_masked_idt95 -b -m envirass/2013_iSelect_Genetic_Map.map -d -t 100000 -o BOPA_masked_95idt#.vcf
 
 
-After we ran SNP_Utils, we can get 2975 SNPs without duplicates, and 21 SNPs with duplicates, 70 failed deu to either no hits (could be 95 identity if still higher), the SNP position in reference is deleteion or the only a small fraction of the contexture sequence hit the genome and SNPs are not in the hit region.
+2. After we ran SNP_Utils, we can get 2975 SNPs without duplicates, and 21 SNPs with duplicates, 70 failed deu to either no hits (could be 95 identity if still higher), the SNP position in reference is deleteion or the only a small fraction of the contexture sequence hit the genome and SNPs are not in the hit region.
 
 for those SNPs with duplicates and failed ones, we mannually blast with IPK server: http://webblast.ipk-gatersleben.de/barley_ibsc/blastresult.php?jobid=147976517327&opt=none
 
