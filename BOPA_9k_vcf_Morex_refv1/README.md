@@ -1,6 +1,6 @@
 ###BOPA SNP
 `sorted_all_BOPA_masked_95idt.vcf`: This file stores all of the BOPA SNPs mapped back to the Morex reference version1.
-It includes 3039 SNPs out of 3071 contexture sequences because we can not figure out the rest of 32  SNPs either due to the deletetion in reference or the SNPs not located in the matched region when we blast the contexture sequence against the masked Morex reference genome V1.
+It includes 3037 SNPs out of 3071 contexture sequences because we can not figure out the rest of 32  SNPs either due to the deletetion in reference or the SNPs not located in the matched region when we blast the contexture sequence against the masked Morex reference genome V1.
 
 Here are the steps I did to figure out the physical position for those SNPs:
 
