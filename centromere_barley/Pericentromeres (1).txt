@@ -1,0 +1,7 @@
+chr1H 70000000 240000000 pericentromere
+chr2H 140000000 425000000 pericentromere
+chr3H 140000000 315000000 pericentromere
+chr4H 50000000 325000000 pericentromere
+chr5H 50000000 260000000 pericentromere
+chr6H 80000000 325000000 pericentromere
+chr7H 175000000 375000000 pericentromere
